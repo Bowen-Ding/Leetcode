@@ -4,7 +4,7 @@
 
 | ID   | Title   | Solution                                 | Type  | Difficulty |
 | ---- | ------- | ---------------------------------------- | ----- | ---------- |
-| 1    | Two Sum | [Java](Leetcode/leetcodeJava/src/LC_Array/TwoSum.java)<br />[Python](Leetcode/leetcodePython/Array/TwoSum.py) | Array | easy       |
+| 1    | Two Sum | [Java](https://github.com/DoomBoom/Leetcode/blob/master/leetcodeJava/src/LC_Array/TwoSum.java)<br />[Python](https://github.com/DoomBoom/Leetcode/blob/master/leetcodePython/Array/TwoSum.java) | Array | easy       |
 |      |         |                                          |       |            |
 |      |         |                                          |       |            |
 
