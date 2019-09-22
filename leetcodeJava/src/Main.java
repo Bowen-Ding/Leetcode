@@ -1,19 +1,13 @@
-import LC_Array.*;
-import LC_DynamicProgramming.LongestPalindromicSubstring;
-
-import java.util.Arrays;
 
 public class Main {
 
     public static void main(String[] args) {
-        // TwoSum
-        TwoSum twoSum = new TwoSum();
-        int[] result = twoSum.twoSum(new int[]{3,3,4},6);
-
-        // LongestPalindromicSubstring 最长回文字符串
-        LongestPalindromicSubstring lps = new LongestPalindromicSubstring();
-        String str1 = lps.longestPalindrome("ababababa");
-        String str2 = lps.longestPalindromeDP("bb");
-        System.out.println(str2);
+       String s1 = "a\":\"";
+       String s2 = "\":\"a";
+       String[] l1 = s1.split("\":\"");
+       String[] l2 = s2.split("\":\"");
+       for (String e : l1) {
+           System.out.println("这个元素为" + e);
+       }
     }
 }
