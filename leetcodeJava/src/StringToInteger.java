@@ -85,7 +85,7 @@ public class StringToInteger {
         if (null == str || str.isEmpty()) return 0;
         char head = str.charAt(0);
         if (str.length() == 1) {
-            if (head >= '0' && head <= '9') {
+            if (isDigit(head)) {
                 return Integer.parseInt(str);
             }
             return 0;

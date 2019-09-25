@@ -36,10 +36,9 @@
       <file leaf-file-name="StringToInteger.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StringToInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
-              <caret line="122" column="1" lean-forward="true" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="49" selection-end-column="34" />
               <folding>
-                <element signature="e#0#1577#0" expanded="true" />
                 <element signature="imports" expanded="true" />
                 <element signature="e#2761#2762#0" expanded="true" />
                 <element signature="e#2803#2804#0" expanded="true" />
@@ -322,15 +321,15 @@
       <workItem from="1568998897259" duration="887000" />
       <workItem from="1569045585458" duration="6032000" />
       <workItem from="1569249832661" duration="5912000" />
-      <workItem from="1569422931703" duration="6900000" />
+      <workItem from="1569422931703" duration="7335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49516000" />
+    <option name="totallyTimeSpent" value="49951000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -549,10 +548,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StringToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="122" column="1" lean-forward="true" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="49" selection-end-column="34" />
           <folding>
-            <element signature="e#0#1577#0" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="e#2761#2762#0" expanded="true" />
             <element signature="e#2803#2804#0" expanded="true" />
