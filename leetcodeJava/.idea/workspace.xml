@@ -105,7 +105,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="40" />
     <option name="y" value="45" />
     <option name="width" value="1750" />
@@ -172,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringToInteger">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -293,8 +293,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringToInteger" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StringToInteger" />
       </list>
     </recent_temporary>
   </component>
