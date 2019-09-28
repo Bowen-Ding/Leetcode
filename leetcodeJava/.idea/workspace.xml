@@ -21,11 +21,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegularExpressionMatching.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RegularExpressionMatching.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RegularExpressionMatching.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="172">
               <caret line="56" column="52" lean-forward="true" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContainerWithMostWater.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#836#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,6 +74,7 @@
         <option value="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/StringToInteger.java" />
         <option value="$PROJECT_DIR$/src/RegularExpressionMatching.java" />
+        <option value="$PROJECT_DIR$/src/ContainerWithMostWater.java" />
       </list>
     </option>
   </component>
@@ -74,7 +87,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="40" />
     <option name="y" value="45" />
     <option name="width" value="1750" />
@@ -292,15 +305,15 @@
       <workItem from="1569249832661" duration="5912000" />
       <workItem from="1569422931703" duration="7335000" />
       <workItem from="1569504381964" duration="6450000" />
-      <workItem from="1569594370592" duration="1796000" />
+      <workItem from="1569594370592" duration="4048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58434000" />
+    <option name="totallyTimeSpent" value="60686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -309,8 +322,8 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.30068967" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50065106" side_tool="true" weight="0.30068967" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" sideWeight="0.49934897" weight="0.30068967" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="CDI" order="3" />
@@ -342,13 +355,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LC_Tree/TreeNode.java" />
     <entry file="file://$PROJECT_DIR$/src/LC_Tree/BinaryTreeInorderTraversal.java" />
     <entry file="file://$PROJECT_DIR$/src/LC_Array/AddTwoNumbers.java" />
     <entry file="file://$PROJECT_DIR$/src/LC_Sort/MergeIntervals.java" />
@@ -490,6 +507,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="659" selection-start-line="659" selection-end-line="659" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -518,6 +541,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="56" column="52" lean-forward="true" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#836#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
