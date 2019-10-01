@@ -21,31 +21,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegularExpressionMatching.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RegularExpressionMatching.java">
+      <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
-              <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContainerWithMostWater.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="31" column="1" selection-start-line="22" selection-end-line="31" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RomanToInteger.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
-              <caret selection-end-line="45" selection-end-column="34" />
+            <state relative-caret-position="276">
+              <caret line="31" column="76" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="76" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -86,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/RegularExpressionMatching.java" />
         <option value="$PROJECT_DIR$/src/ContainerWithMostWater.java" />
         <option value="$PROJECT_DIR$/src/RomanToInteger.java" />
+        <option value="$PROJECT_DIR$/src/ThreeSum.java" />
       </list>
     </option>
   </component>
@@ -109,6 +92,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,9 +110,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,14 +301,15 @@
       <workItem from="1569504381964" duration="6450000" />
       <workItem from="1569594370592" duration="4670000" />
       <workItem from="1569770198738" duration="2657000" />
+      <workItem from="1569946382179" duration="3198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63965000" />
+    <option name="totallyTimeSpent" value="67163000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -378,7 +362,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LC_Array/AddTwoNumbers.java" />
     <entry file="file://$PROJECT_DIR$/src/LC_Sort/MergeIntervals.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -541,16 +524,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RegularExpressionMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
+        <state relative-caret-position="19">
           <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
         </state>
       </provider>
@@ -562,12 +538,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret selection-end-line="45" selection-end-column="34" />
+        <state relative-caret-position="95">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="31" column="76" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
