@@ -8,3 +8,4 @@ class Solution:
             else:
                 break
         return res
+
